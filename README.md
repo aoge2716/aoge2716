@@ -22,5 +22,5 @@ My background spans **computer vision**, **workflow automation**, and **system o
 ---
 
 ### Reach Me  
-Email: aoge2716@gmail.com  
+Email: aogebo@gmail.com  
 [LinkedIn](https://linkedin.com/in/aoge2716)
