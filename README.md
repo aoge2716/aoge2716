@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Aoge
 
-<!--
-**aoge2716/aoge2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building scalable web and AI-powered solutions.  
+Currently focused on full-stack development with **React**, **Firebase**, and **Node.js**.  
+My background spans **computer vision**, **workflow automation**, and **system optimization**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack  
+**Frontend:** React, Tailwind, JavaScript, HTML/CSS  
+**Backend:** Firebase, Node.js, Express, SQL  
+**Other Tools:** Git, Power Automate, Syncfusion, ROS, OpenCV  
+**Languages:** Python, C/C++, C#, JavaScript
+
+---
+
+### Currently Learning  
+- Firebase security rules and Firestore data structuring  
+- Deployment with Netlify & CI/CD automation  
+- GMAT prep for future academic goals
+
+---
+
+### Reach Me  
+Email: aoge2716@gmail.com  
+[LinkedIn](https://linkedin.com/in/aoge2716)
